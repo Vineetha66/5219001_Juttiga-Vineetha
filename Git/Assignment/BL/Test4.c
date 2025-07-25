@@ -4,4 +4,5 @@ void main(){
 }
 void main(){
     int cdef = 0;
+    int cde = 0;
 }
