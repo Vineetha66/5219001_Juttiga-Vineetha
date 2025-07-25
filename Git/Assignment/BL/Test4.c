@@ -3,5 +3,5 @@ void main(){
     int b = 0;
 }
 void main(){
-    int c = ;
+    int cd = 0;
 }
