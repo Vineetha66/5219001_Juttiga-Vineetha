@@ -4,5 +4,6 @@ void main(){
 }
 void main(){
     int qqu = 87;
+    int pq = 400
     int cw = 44555;
 }
