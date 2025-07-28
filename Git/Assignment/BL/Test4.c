@@ -3,6 +3,6 @@ void main(){
     int b = 0;
 }
 void main(){
-    int ppw = 8;
+    int qqu = 87;
     int cw = 44555;
 }
