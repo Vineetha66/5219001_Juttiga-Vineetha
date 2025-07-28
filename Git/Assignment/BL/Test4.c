@@ -3,6 +3,6 @@ void main(){
     int b = 0;
 }
 void main(){
-    int cdef = 0;
-    int cde = 0;
+    int bw = 4;
+    int cw = 44555;
 }
