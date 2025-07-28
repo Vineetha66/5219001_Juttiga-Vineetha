@@ -1,1 +1,1 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png" alt="Logo" width="200">
+<img src="images\WhatsApp Image 2025-07-24 at 22.10.03_17a60f07.jpg" alt="Logo">
